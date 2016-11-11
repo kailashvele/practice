@@ -1,0 +1,28 @@
+{
+  "name": "jspractice",
+  "version": "1.0.0",
+  "description": "Get random start wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kailashvele/practice.git"
+  },
+  "keywords": [
+    "jspractice",
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Kai <kailashvele@gmail.com> (http://tantra-gyan.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kailashvele/practice/issues"
+  },
+  "homepage": "https://github.com/kailashvele/practice#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
